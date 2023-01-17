@@ -22,8 +22,6 @@ Modificar los datos de red del archivo.
 
 Presionar el botón “Reset” en el ESP32CAM.
 
-![https://raw.githubusercontent.com/RaulToribio/25-Codigo-No-Bloqueante/main/Im%C3%A1genes/C%C3%B3digo%20No%20Bloqueante%20(3).png](https://raw.githubusercontent.com/RaulToribio/25-Codigo-No-Bloqueante/main/Im%C3%A1genes/C%C3%B3digo%20No%20Bloqueante%20(3).png)
-
 Cargar el programa.
 
 ![https://raw.githubusercontent.com/RaulToribio/25-Codigo-No-Bloqueante/main/Im%C3%A1genes/C%C3%B3digo%20No%20Bloqueante%20(4).png](https://raw.githubusercontent.com/RaulToribio/25-Codigo-No-Bloqueante/main/Im%C3%A1genes/C%C3%B3digo%20No%20Bloqueante%20(4).png)
