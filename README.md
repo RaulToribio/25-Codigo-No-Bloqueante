@@ -2,7 +2,7 @@
 
 # Introducción
 
-"CameraWebServer" es un sketch de ejemplo de Arduino para la placa ESP32CAM, que permite utilizar la cámara integrada en la placa para tomar fotos y transmitirlas a través de un servidor web. Una vez que el sketch está cargado en la placa ESP32CAM, se puede acceder a la cámara a través de un navegador web en un dispositivo conectado a la misma red Wi-Fi que la placa.
+Arduino IDE es un Entorno de Desarrollo Integrado (IDE) para programar y desarrollar proyectos con placas Arduino. Incluye un editor de código, un compilador y una herramienta de carga para facilitar el proceso de escribir, depurar y cargar código en las placas Arduino. Además, Arduino IDE viene con una gran cantidad de bibliotecas y ejemplos pre-instalados que ayudan a los desarrolladores a empezar rápidamente con sus proyectos.
 
 # Material Necesario
 
